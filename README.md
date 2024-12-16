@@ -13,12 +13,12 @@ This is a Web3 DApp that allows users to wave at me and send messages through th
 ### Prerequisites
 * Node.js
 * Metamask wallet
-* Some test ETH (for Goerli testnet)
+* Some test ETH (for Sepolia testnet)
 
 ### Installation
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/waveportal.git
+git clone https://github.com/codebasebo/Wave_Portal
 ```
 
 2. Install dependencies
